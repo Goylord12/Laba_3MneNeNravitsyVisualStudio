@@ -23,13 +23,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Введите день недели:");
-        string inputDay = Console.ReadLine();
+         Console.WriteLine("Введите день недели");
+        DayOfWeek dayOfWeek = (DayOfWeek)Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Введите время дня:");
         int inputTime = int.Parse(Console.ReadLine());
-
-        DayOfWeek dayOfWeek = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), inputDay);
         TimeOfDay timeOfDay = TimeOfDay.Night;
 
         if (inputTime >= 7 && inputTime <= 12)
