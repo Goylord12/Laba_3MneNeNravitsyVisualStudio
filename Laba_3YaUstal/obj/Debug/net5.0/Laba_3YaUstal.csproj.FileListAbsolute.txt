@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\Laba_3YaUstal\bin\Debug\net5.0\Laba_3YaUstal.exe
+C:\Users\Acer\source\repos\Laba_3YaUstal\bin\Debug\net5.0\Laba_3YaUstal.deps.json
+C:\Users\Acer\source\repos\Laba_3YaUstal\bin\Debug\net5.0\Laba_3YaUstal.runtimeconfig.json
+C:\Users\Acer\source\repos\Laba_3YaUstal\bin\Debug\net5.0\Laba_3YaUstal.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Laba_3YaUstal\bin\Debug\net5.0\Laba_3YaUstal.dll
+C:\Users\Acer\source\repos\Laba_3YaUstal\bin\Debug\net5.0\ref\Laba_3YaUstal.dll
+C:\Users\Acer\source\repos\Laba_3YaUstal\bin\Debug\net5.0\Laba_3YaUstal.pdb
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\Laba_3YaUstal.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\Laba_3YaUstal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\Laba_3YaUstal.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\Laba_3YaUstal.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\Laba_3YaUstal.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\Laba_3YaUstal.dll
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\ref\Laba_3YaUstal.dll
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\Laba_3YaUstal.pdb
+C:\Users\Acer\source\repos\Laba_3YaUstal\obj\Debug\net5.0\Laba_3YaUstal.genruntimeconfig.cache
